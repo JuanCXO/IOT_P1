@@ -103,7 +103,7 @@ git clone https://github.com/tu_usuario/IoT_Temperatura.git
 ## 🏆 Créditos
 📌 **Autor:** Juan Carlos Matias  
 📅 **Fecha:** Febrero 2025  
-📂 **Repositorio:** [GitHub](https://github.com/tu_usuario/IoT_Temperatura)
+📂 **Repositorio:** https://github.com/JuanCXO/IOT_P1
 
 ---
 
